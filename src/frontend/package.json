@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "flexbox-react": "^4.4.0",
+    "query-string": "^5.0.0",
+    "react": "^15.6.1",
+    "react-apollo": "^1.4.15",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.1",
+    "react-masonry-component": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

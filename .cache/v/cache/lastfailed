@@ -1,0 +1,4 @@
+{
+  "src/backend/play_app/tests/test_models.py": true,
+  "src/backend/play_app/tests/test_schema.py": true
+}
